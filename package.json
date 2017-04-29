@@ -1,0 +1,24 @@
+{
+  "name": "apalis-t30-io",
+  "version": "0.1.0",
+  "description": "Toradex Apalis-T30 IO Plugin for Johnny-Five",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnappyRobotics/apalis-t30-io.git"
+  },
+  "keywords": [
+    "apalis-t30",
+    "johnny-five",
+    "io-plugin"
+  ],
+  "author": "Prajankya <contact@prajankya.me>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SnappyRobotics/apalis-t30-io/issues"
+  },
+  "homepage": "https://github.com/SnappyRobotics/apalis-t30-io#readme"
+}
