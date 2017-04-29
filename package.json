@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/SnappyRobotics/apalis-t30-io/issues"
   },
-  "homepage": "https://github.com/SnappyRobotics/apalis-t30-io#readme"
+  "homepage": "https://github.com/SnappyRobotics/apalis-t30-io#readme",
+  "dependencies": {
+    "linux-io": "^0.5.7"
+  },
+  "devDependencies": {
+    "johnny-five": "^0.10.10"
+  }
 }
